@@ -1,4 +1,4 @@
-## Deploy the fulfillment
+## *Deploy the fulfillment*
   1. [Download and install Node.js](https://nodejs.org/)
   
   2. Set up and initialize the Firebase CLI. If the following command fails with an EACCES error, you may need to [change npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions).
